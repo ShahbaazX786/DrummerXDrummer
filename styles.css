@@ -1,6 +1,17 @@
 body {
     text-align: center;
     background-color: #283149;
+    /* background-image: url(images/drummerbg.jpg); */
+}
+
+.bgimg{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    opacity: 50%;
+    z-index: -1;
 }
 
 h1 {

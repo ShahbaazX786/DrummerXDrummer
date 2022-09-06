@@ -8,3 +8,5 @@ Drummer is a webapp to play some Drums and be a drummer! XD
 - Enjoy. 
 
 Also, if you want to make some improvements to this feel free to drop a PR(Pull Request).
+
+[Quick launch link](https://shahbaazx786.github.io/DrummerXDrummer/ "Go to deployed link")
